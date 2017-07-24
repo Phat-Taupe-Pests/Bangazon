@@ -1,3 +1,3 @@
 # Bangazon
 
-![Bangazon ERD](Bangazon.jpg "Optional Title")
+![Bangazon ERD](BangazonERD.jpg "Optional Title")
