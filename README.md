@@ -1,7 +1,6 @@
 # Bangazon
 
-![Bangazon ERD ](BangazonERD.jpg "Optional Title")
-
+![Bangazon ERD ](BangazonERD.jpeg "Optional Title")
 
 ![SQL Join](sqljointables.jpg "Sql Join Tables")
 
